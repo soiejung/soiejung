@@ -20,4 +20,4 @@
 #
 </br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YeJinii&show_icons=true&theme=dracula)](https://github.com/soiejung/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=soiejung&show_icons=true&theme=dracula)](https://github.com/soiejung/github-readme-stats)
