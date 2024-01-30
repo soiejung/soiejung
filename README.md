@@ -2,8 +2,6 @@
 
 
 ### Contacts 📫
-
-* Github Repo Issue
 * Email: soiejung@naver.com
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soiejung&layout=compact"><br><br>
