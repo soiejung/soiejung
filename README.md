@@ -5,5 +5,5 @@
 * Github Repo Issue
 * Email: soiejung@naver.com
 
-[![Soiejung's GitHub stats](https://github-readme-stats.vercel.app/api?username=soiejung&theme=pink)](https://github.com/soiejung/github-readme-stats)
+[![Soiejung's GitHub stats](https://github-readme-stats.vercel.app/api?username=soiejung&theme=graywhite)](https://github.com/soiejung/github-readme-stats)
 
