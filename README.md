@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Soie%Github!%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Soie%20Github!&fontSize=90)
 
 
 ### Contacts 📫
