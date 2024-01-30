@@ -5,6 +5,6 @@
 * Github Repo Issue
 * Email: soiejung@naver.com
 
-![YeonjiKim0316's github stats](https://github-readme-stats.vercel.app/api?username=soiejung&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soiejung&hide=contribs,prs&show_icons=true&theme=graywhite)
 
 
